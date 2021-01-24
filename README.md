@@ -53,3 +53,12 @@ Dentro del menu, deseleccionar los siguientes puntos:
 ```
 # make config
 ```
+
+--- 
+
+# Generacion de Certificados
+
+Los certificados SSL son indispensables para la utlizacion del protocolo **webRTC**, por lo tanto, si no tenemos uno de una autoridad certificante, deberemos generar uno autofirmado.
+- *Nota: Este certificado autofirmado no tiene los mismos beneficios y seguridad que uno otorgado por una entidad, pero es suficiente para que funcione el protocolo webRTC.*
+
+Ver la carpeta la docuy q deje en el laburo.
